@@ -37,6 +37,6 @@ A multi-tenant academy platform covering enrolment, coach operations, parent ser
 
 ## Social Links
 
-[![Website](https://img.shields.io/badge/Website-sirlano.com-111827?style=flat-square)](https://sirlano.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-stephen--salano-0A66C2?style=flat-square)](https://linkedin.com/in/stephen-salano)
-[![Email](https://img.shields.io/badge/Email-info%40sirlano.com-444444?style=flat-square)](mailto:info@sirlano.com)
+## Social Links
+
+[Website](https://sirlano.com) | [LinkedIn](https://linkedin.com/in/stephen-salano) | [Email](mailto:info@sirlano.com)
